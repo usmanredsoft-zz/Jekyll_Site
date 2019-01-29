@@ -1,0 +1,8 @@
+./upload
+cd welcome
+./upload
+cd ../curry1
+./upload
+cd ../pivi1
+./upload
+cd ..
